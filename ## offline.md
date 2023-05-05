@@ -1,0 +1,3 @@
+## offline 
+
+rustup docs --book 
